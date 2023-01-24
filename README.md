@@ -3,15 +3,15 @@ The following word clouds were created using Geo-Tagged tweets related to protes
 
 > ## Seattle
 > ![Seattle protest word cloud](/img/wordcloud-1.png)
-[Seattle data download](/assets/twsearch-result-1.csv)
+[Seattle data download](/assets/twsearch-result-1.csv "download")
 
 > ## Spokane 
 > ![Spokane protest word cloud](/img/wordcloud-2.png)
-> [Spokane data download](/assets/twsearch-result-2.csv)
+> [Spokane data download](/assets/twsearch-result-2.csv "download")
 
 > ## Olympia
 > ![Olympia protest word cloud](/img/wordcloud-3.png)
-> [Olympia data download](/assets/twsearch-result-3.csv)
+> [Olympia data download](/assets/twsearch-result-3.csv "download")
 
 ## Search Parameters
 My word cloud was built upon geo-tagged tweets in Seattle, Spokane, and Olympia with the search parameter of "Protest". I chose a radius of 10 miles so that it could include most, if not all, of each city. Because of these search parameters, I am able to make a comparison between commonly tweeted words on the topic of protests in varying geographic locations. I wanted to make this comparison because I was interested in how geography might change opinions or topics relating to protests and political/social issues.
