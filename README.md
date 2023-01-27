@@ -10,7 +10,7 @@ The following word clouds were created using Geo-Tagged tweets related to protes
 > [Spokane Data download](/assets/spokane-twsearch.csv)
 
 > ## Olympia
-> ![Olympia protest word cloud](/img/wordcloud-3.png)
+> ![Olympia protest word cloud](/img/olympia-wordcloud.png)
 > [Olympia Data download](/assets/olympia-twsearch.csv)
 
 ## Search Parameters
